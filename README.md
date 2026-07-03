@@ -1,3 +1,5 @@
 # AO-Name-Checker
-I made this to find a good name as easy. Feel free to use it as well.
-To get started: .\check-name.ps1 -Help
+I made this to find a good name easily.
+
+1. To get started, open Terminal in your file's location. 
+2. Then: .\check-name.ps1 -Help
